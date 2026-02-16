@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)  
 [![Flask](https://img.shields.io/badge/Flask-API-green)](https://flask.palletsprojects.com/)  
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-BART-orange)](https://huggingface.co/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ---
 
